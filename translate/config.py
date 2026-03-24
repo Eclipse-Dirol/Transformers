@@ -1,0 +1,11 @@
+max_len = 64
+src_lang = 'en'
+tgt_lang = 'ru'
+padding = 'max_length'
+d_model = 128
+base_num = 10000
+n_heads = 8
+dropout = 0.15
+out_f = 4 * d_model
+vocab_size = 62518
+num_layers = 5
